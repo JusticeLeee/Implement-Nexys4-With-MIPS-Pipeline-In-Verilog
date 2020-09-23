@@ -1,5 +1,6 @@
 # Implement-Nexys4-With-MIPS-Pipeline-In-Verilog
 ![error](https://github.com/JusticeLeee/Implement-Nexys4-With-MIPS-Pipeline-In-Verilog/blob/master/png/MIPS_Architecture_(Pipelined).png)
+## 介紹
 ```
 透過verilog軟體模擬MIPS-5-Level-Pipeline-Archeitecture
 共分為instruction fetch、instruction decode、excution、memory acess、write back五個階段
