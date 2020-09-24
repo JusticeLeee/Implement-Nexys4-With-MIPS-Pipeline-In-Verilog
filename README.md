@@ -11,3 +11,4 @@
 ```
 Result:左邊顯示149，右邊顯示139
 ```
+Reference:https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual
